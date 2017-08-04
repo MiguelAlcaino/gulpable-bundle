@@ -1,0 +1,3 @@
+miguel_alcaino_gulpable_homepage:
+    path:     /
+    defaults: { _controller: MiguelAlcainoGulpableBundle:Default:index }

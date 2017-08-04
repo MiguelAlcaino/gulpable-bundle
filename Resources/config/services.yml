@@ -1,0 +1,4 @@
+services:
+#    miguel_alcaino_gulpable.example:
+#        class: MiguelAlcaino\GulpableBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,0 +1,15 @@
+{
+    "name": "malcaino/gulpable-bundle",
+    "description": "Assetic and Gulp working together!",
+    "type": "symfony-bundle",
+    "require": {
+        "symfony/assetic-bundle": "^2.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miguel Alcaino",
+            "email": "miguel.alcaino@ogb.cl"
+        }
+    ]
+}
